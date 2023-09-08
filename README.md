@@ -1,1 +1,2 @@
-# PlotTool
+# Electronic Filter Plot Tool
+
